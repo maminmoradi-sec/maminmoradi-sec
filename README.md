@@ -46,9 +46,9 @@
 
 ## 🏆 Certifications Roadmap
 
-- [ ] CompTIA Security+ *(Target: 2025 Q1)*
-- [ ] eJPT — eLearnSecurity *(Target: 2025 Q2)*
-- [ ] OSCP *(Target: 2025 Q4)*
+- [ ] CompTIA Security+ *(Target: 2026 Q3)*
+- [ ] eJPT — eLearnSecurity *(Target: 2026 Q4)*
+- [ ] OSCP *(Target: 2027 Q2)*
 
 ---
 
